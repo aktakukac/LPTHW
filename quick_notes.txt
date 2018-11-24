@@ -1,0 +1,19 @@
+Command line interface (cmd or terminal)
+
+show directory content
+dir on windows
+ls on mac
+
+current directory/location
+cd on windows
+pwd on mac
+
+change directory
+cd on mac and win
+
+clear screen
+cls on win
+clear on mac
+
+ipython
+shift+enter to run a cell
