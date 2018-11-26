@@ -17,3 +17,8 @@ clear on mac
 
 ipython
 shift+enter to run a cell
+
+
+<p style="margin-top: 0 !important; margin-bottom: 0 !important;" align="justify">
+
+https://documentup.com/skwp/git-workflows-book
